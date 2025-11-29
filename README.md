@@ -86,7 +86,7 @@ DNS traffic was answered by my local IPv6 DNS resolver:
 
 
 ### 📷 Screenshot: DNS Resolver Packet  
-![DNS Resolver Packet](screenshots/dns-resolver-ip.png)
+![image alt]([screenshots/dns-resolver-ip.png](https://github.com/tarunkema3/dns-traffic-analysis/blob/74504b95f9fb581298aa12e247fda186a8e0e56d/Screenshot.dns%2Crecord.type.png))
 
 Details shown:
 - Incoming DNS response from port 53  
