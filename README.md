@@ -100,7 +100,7 @@ Details shown:
 Wikipedia’s domain redirected using a CNAME record:  
 
 ### 📷 Screenshot: DNS Record Type (CNAME)  
-![DNS Record Type](screenshots/dns-record-type.png)
+![image alt](s[creenshots/dns-record-type.png](https://github.com/tarunkema3/dns-traffic-analysis/blob/129f1b64d6983d74c9a1aea0dd99346805338ce5/Screenshot.capturing.png))
 
 This screenshot confirms:
 - Query type = HTTPS  
