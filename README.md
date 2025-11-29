@@ -35,7 +35,7 @@ I selected my active Wi-Fi interface and filtered DNS traffic using:
 
 
 ### 📷 Screenshot: DNS Filter Applied  
-![DNS Filter View]([screenshots/dns-filter-view.png](https://github.com/tarunkema3/dns-traffic-analysis/blob/c39fb7ca3a4b2b0d52e7db258d5de8c681a62e59/Screenshot.dns-filter-version.png))
+[image alt](https://github.com/tarunkema3/dns-traffic-analysis/blob/c39fb7ca3a4b2b0d52e7db258d5de8c681a62e59/Screenshot.dns-filter-version.png)
 
 This screenshot shows:
 - Clean DNS-only packet view  
