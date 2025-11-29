@@ -51,7 +51,7 @@ The DNS response returned Wikipedia’s IPv6 address:
 
 
 ### 📷 Screenshot: IPv6 DNS Response Packet  
-![IPv6 DNS Response](screenshots/dns-ipv6-response.png)
+!image alt]([screenshots/dns-ipv6-response.png](https://github.com/tarunkema3/dns-traffic-analysis/blob/8606cd6ebc2f30bff33ebba63d3f0688b8916436/Screenshot.dst.addr.png))
 
 Visible in this screenshot:
 - **Source Address:** DNS resolver  
