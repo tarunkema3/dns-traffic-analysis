@@ -70,7 +70,7 @@ I inspected the packet contents across all protocol layers:
 - DNS  
 
 ### 📷 Screenshot: DNS Packet Hex Breakdown  
-![DNS Packet Breakdown](screenshots/dns-packet-expanded.png)
+![image alt]([screenshots/dns-packet-expanded.png](https://github.com/tarunkema3/dns-traffic-analysis/blob/903e58476c265e0b70d0af412abc33bf32c8eb4f/Screenshot.source.addr.png))
 
 This view shows:
 - Transaction ID  
